@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+cs231n/__pycache__
+*.pyc
+input/*
+output/*
+
